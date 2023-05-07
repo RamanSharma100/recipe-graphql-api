@@ -1,0 +1,10 @@
+{
+	"version": "1.0.0",
+	"name": "food-graphql-api",
+	"dependencies": {
+		"@apollo/server": { "version": "4.7.1" },
+		"dotenv": { "version": "16.0.3" },
+		"graphql": { "version": "16.6.0" },
+		"mongoose": { "version": "7.1.0" }
+	}
+}
