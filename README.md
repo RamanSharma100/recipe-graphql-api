@@ -1,4 +1,4 @@
-# Recipe Graphql API 🐾
+# Recipe Graphql API
 
 Welcome to the Recipe Graphql API! This API allows you to retrieve, edit,
 update, delete using GraphQL Queries.
